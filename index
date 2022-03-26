@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery In 2min</title>
+</head>
+<body>
+    <h1>@welcome you all in my website!</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, vitae. Provident delectus iure corporis impedit asperiores aperiam mollitia exercitationem, sit quidem optio! Expedita similique commodi dolor sequi officiis saepe sit.</p>
+    <hr>
+    <strong><u>NITISH KUMAR PRASAD</u></strong>
+    <p><i><u>amit kumar prasad</u></i></p>
+    <h2>Quadratic equation - a<sub>1</sub>x + b<sup>5</sup> - c=0</h2>
+    <img src="vl6og.jpeg" alt="Thumbnail image">
+    
+</body>
+</html>
